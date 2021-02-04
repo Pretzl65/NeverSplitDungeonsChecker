@@ -1,0 +1,17 @@
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\bin\Debug\NeverSplitDungeons.exe.config
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\bin\Debug\NeverSplitDungeons.exe
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\bin\Debug\NeverSplitDungeons.pdb
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons.csprojAssemblyReference.cache
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\MainWindow.g.cs
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\StageOne.g.cs
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\App.g.cs
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons_MarkupCompile.cache
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons_MarkupCompile.lref
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\MainWindow.baml
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\StageOne.baml
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons.g.resources
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons.Properties.Resources.resources
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons.csproj.GenerateResource.cache
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons.exe
+C:\Users\flori\source\repos\NeverSplitDungeons\NeverSplitDungeons\obj\Debug\NeverSplitDungeons.pdb
