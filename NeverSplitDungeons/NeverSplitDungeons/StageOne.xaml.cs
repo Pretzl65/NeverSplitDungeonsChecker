@@ -65,6 +65,10 @@ namespace NeverSplitDungeons
             }
             else if (clicked.Background == Brushes.MediumPurple)
             {
+                clicked.Background = Brushes.Black;
+            }
+            else if (clicked.Background == Brushes.Black)
+            {
                 clicked.Background = Brushes.DarkGray;
             }
         }
@@ -106,8 +110,12 @@ namespace NeverSplitDungeons
                 {
                     DungeonInString += "P";
                 }
+                else if (Field.Background == Brushes.Black)
+                {
+                    DungeonInString += "B";
+                }
 
-                if(counter % 7 == 0) { DungeonInString += "\n"; }
+                if (counter % 7 == 0) { DungeonInString += "\n"; }
                 DungeonInString += " ";
                 counter++;
             }
