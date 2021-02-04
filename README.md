@@ -1,0 +1,2 @@
+# NeverSplitDungeonsChecker
+Yes
